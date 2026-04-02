@@ -29,8 +29,8 @@ By the end of this module, you'll be able to design appropriate security control
 
 ### Course landing pages
 
-- [CYB - Cybersecurity Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/security-controls/canvas-landing-pages/cyb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/security-controls/canvas-landing-pages/fallback.html)
+- [CYB - Cybersecurity Bootcamp](https://ga-curriculum.github.io/security-controls/canvas-landing-pages/cyb.html)
+- [Fallback](https://ga-curriculum.github.io/security-controls/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -42,4 +42,4 @@ By the end of this module, you'll be able to design appropriate security control
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
